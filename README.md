@@ -28,7 +28,7 @@
 * scale size를 하나로 고정한 뒤 224X224를 뽑음
 #### multi scale
 * scale size를 256에서 512 중 random하게 정한 뒤 224X224를 뽑음
-![scale]<img width="1238" alt="딥2" src="https://user-images.githubusercontent.com/86214286/195834211-f81f7130-b26d-4db4-a9e5-b18083a0cc25.png">
+<img width="1238" alt="딥2" src="https://user-images.githubusercontent.com/86214286/195834211-f81f7130-b26d-4db4-a9e5-b18083a0cc25.png">
 
 ### testing
 
