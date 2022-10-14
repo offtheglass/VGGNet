@@ -35,4 +35,4 @@
 
 ## performance
 * 19 layer 까지는 layer의 수를 늘리면 성능이 좋아짐, 그 이후는 유의미한 성능 변화 볼 수 없음
-* multi scale로 train됐을 떠 더 좋은 성능을 
+* multi scale로 train됐을 때 더 좋은 성능을 보임
