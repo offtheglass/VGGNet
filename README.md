@@ -19,7 +19,7 @@
 * Momentum:0.9
 * L2 Regularization: 5X10^(-4)
 * Learing rate:10^(-2)(validation set에서 성능향상이 없을 때마다 10^(-1))
-* input image:224*224*3
+* input image:224X224X3
 ### initialization
 * A를 먼저 학습시키고 A로 처음 4개의 layer와 마지막 3개 fully connected layer를 initialization
 * 나머지는 N(0,10^(-2))에서 뽑아서 initialization
