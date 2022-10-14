@@ -8,6 +8,7 @@
 * convolutional filter로 3X3 계속 사용
 * convolutional filter-activation-maxpooling의 구조 반복-->receptive field 넓어짐
 
+![config](https://user-images.githubusercontent.com/86214286/195834901-cf79ff8f-d1e6-45eb-aa96-5369bb87ac84.jpg)
 ### 3*3의 장점
 * 필터를 많이 거치도록 해서 discrimination이 잘 되게 함.
   * 7X7을 한 번 적용하는 것보다 3X3을 3번 적용하는 게 discrimination이 잘 됨(non-linearity)
